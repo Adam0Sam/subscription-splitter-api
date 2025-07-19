@@ -6,7 +6,6 @@ using SubscriptionSplitter.Domain.Entities;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using Microsoft.AspNetCore.Components.Sections;
 
 namespace SubscriptionSplitter.Infrastructure.Identity
 {
